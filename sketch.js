@@ -33,7 +33,5 @@ circle.scale = 0.1
 function draw() {
   background("black");  
   drawSprites();
-  mouseOver(heart){
-    mouse.x = heart.x
-  }
+
 }
